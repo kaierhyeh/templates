@@ -1,0 +1,6 @@
+{
+  "name": "in-your-own-words",
+  "version": "1.0.0",
+  "displayName": "In-Your-Own-Words",
+  "description": "Enforces an intent restatement and confirmation gate before high-impact or architectural actions."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "minimal-diff-reversibility",
+  "version": "1.0.0",
+  "displayName": "Minimal Diff & Reversibility",
+  "description": "Enforces surgical code edits, minimal diffs, and reversible changes across all modifications."
+}

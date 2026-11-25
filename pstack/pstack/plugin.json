@@ -1,0 +1,6 @@
+{
+  "name": "pstack",
+  "version": "1.0.0",
+  "displayName": "pstack (SDLC & Playbook Orchestrator)",
+  "description": "Rigorous software engineering workflow, task playbooks (/poteto-mode), root-cause analysis, and Prove-It-Works verification."
+}
