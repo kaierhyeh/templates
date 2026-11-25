@@ -1,5 +1,5 @@
 # [`poteto`](https://x.com/poteto) 的 pstack 安裝手冊
-[source](https://github.com/cursor/plugins/tree/main/pstack)
+從 [source](https://github.com/cursor/plugins/tree/main/pstack) 修改為適用於 Gemini 的外掛。
 
 ## 內容
 ### 1. pstack（作者：Lauren Tan @poteto，Cursor / React 核心工程師）：
